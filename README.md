@@ -1,4 +1,4 @@
-apc-rock-toolchain
+sdk-arm-toolchain
 ==================
 
-Toolchain for building APC Rock's codebase. 
+Toolchain for building ARM codebase. 
